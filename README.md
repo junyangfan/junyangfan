@@ -24,6 +24,13 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 <br />
 
+# Notice
+
+<li>The personal website is still under construction</li>
+<li>Other warehouse codes are being migrated to GitHub</li>
+
+<br />
+
 <!-- 个人技能&工具介绍 -->
 # Languages and Tools
 
@@ -48,6 +55,7 @@ If you have any questions, please contact me through the above way.<img src="./i
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/junyangfan)](https://github.com/junyangfan) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/junyangfan)](https://github.com/junyangfan)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/junyangfan)](https://gitlab.com/junyangfan) 
+
 
 
 <br />
