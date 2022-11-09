@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
+  <a href="https://www.fanjunyang.zone">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, Have a nice day;!&center=true&size=27">
   </a>
 </h1>
