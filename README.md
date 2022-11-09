@@ -3,7 +3,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.fanjunyang.zone">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, Have a nice day;!&center=true&size=27">
+    <img src="./images/hello.svg">
   </a>
 </h1>
 
@@ -15,11 +15,11 @@
 
 
 <!-- 个人介绍 -->
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />  to my homepage<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Fan Junyang. You can also call me Fancy😄.
+<img src="./images/welcomeglitch.gif" width="50px" />  to my homepage<img src="./images/giphy.webp" width="50">, I'm Fan Junyang. You can also call me Fancy😄.
 
-Love programming and sharing, and aspire to become a senior programmer.<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
+Love programming and sharing, and aspire to become a senior programmer.<img src="./images/bongocat.gif" width="50px" />
 
-If you have any questions, please contact me through the above way.<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" />
+If you have any questions, please contact me through the above way.<img src="./images/chat.gif" height="35px" />
 
 
 <br />
