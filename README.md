@@ -60,7 +60,7 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 <!-- ![Fancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight) -->
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan&theme=tokyonight" />
