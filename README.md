@@ -60,12 +60,12 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 <!-- ![Fancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight) -->
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td border="0">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan&theme=tokyonight" />
     </td>
-    <td border="0">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
