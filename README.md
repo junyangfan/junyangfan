@@ -59,10 +59,17 @@ If you have any questions, please contact me through the above way.<img src="./i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan)](https://github.com/junyangfan/# github-readme-stats) -->
 
 <!-- ![Fancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight) -->
-<p style="width: 100%; display:flex; justify-content: space-around; align-items:center;flex-wrap: wrap;">
-  <img style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan&theme=tokyonight" />
-  <img style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight" />
-</p>
+
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan&theme=tokyonight" />
+    </td>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
