@@ -62,10 +62,10 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 <table align="center" border="0">
   <tr>
-    <td colspan="2">
+    <td border="0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan&theme=tokyonight" />
     </td>
-    <td colspan="2">
+    <td border="0">
       <img src="https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
