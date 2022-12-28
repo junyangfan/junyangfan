@@ -79,14 +79,14 @@ If you have any questions, please contact me through the above way.<img src="./i
   </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph
 <table align="center">
   <tr>
     <td colspan="2">
       <img src="https://activity-graph.herokuapp.com/graph?username=junyangfan&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br />
 
