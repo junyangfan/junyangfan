@@ -9,7 +9,8 @@
 
 <!-- 个人资料 -->
 <p align="center">
-  <a href="https://blog.fanjunyang.zone" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-blog.fanjunyang.zone-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://fanjunyang.zone" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-blog.fanjunyang.zone-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://blog.fanjunyang.zone" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Website-blog.fanjunyang.zone-blue?style=flat&logo=google-chrome"></a>
   <a href="mailto:isjunyang.fan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-isjunyang.fan%40gmail.com-%23FCA121?style=flat&logo=gmail"></a>
 </p>
 
