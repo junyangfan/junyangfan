@@ -93,9 +93,8 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 # My open source project
 
-In the finishing......
 <!-- 开源项目 -->
-<a href="https://github.com/junyangfan/notes">
+<a href="https://github.com/junyangfan/chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=chat&theme=radical" />
 </a>
 
