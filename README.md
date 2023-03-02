@@ -96,6 +96,9 @@ If you have any questions, please contact me through the above way.<img src="./i
 <a href="https://github.com/junyangfan/chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=chat&theme=radical" />
 </a>
+<a href="[https://github.com/junyangfan/chat](https://github.com/junyangfan/management-system)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=management-system&theme=radical" />
+</a>
 
 
 <br /><br />
