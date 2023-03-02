@@ -27,7 +27,6 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 # Notice
 
-<li>The personal website is still under construction</li>
 <li>Other warehouse codes are being migrated to GitHub</li>
 
 <br />
