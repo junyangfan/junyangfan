@@ -16,7 +16,7 @@
 
 
 <!-- 个人介绍 -->
-<img src="./images/welcomeglitch.gif" width="50px" />  to my homepage<img src="./images/giphy.webp" width="50">, I'm Fan Junyang. You can also call me Fancy😄.
+<img src="./images/welcomeglitch.gif" width="50px" />  to my homepage<img src="./images/giphy.webp" width="50">, I'm Fan Junyang😄.
 
 Love programming and sharing, and aspire to become a senior programmer.<img src="./images/bongocat.gif" width="50px" />
 
