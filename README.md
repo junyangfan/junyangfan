@@ -94,6 +94,9 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 <!-- 开源项目 -->
 <p align="left">
+  <a href="https://github.com/junyangfan/jy-ui">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=jy-ui&theme=radical" />
+  </a>
   <a href="https://github.com/junyangfan/chat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=chat&theme=radical" />
   </a>
