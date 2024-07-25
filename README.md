@@ -2,15 +2,15 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://www.fanjunyang.zone">
+  <a href="https://fjy.zone">
     <img src="./images/hello.svg">
   </a>
 </h1>
 
 <!-- 个人资料 -->
 <p align="center">
-  <a href="https://fanjunyang.zone" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-fanjunyang.zone-blue?style=flat&logo=google-chrome"></a>
-  <a href="https://blog.fanjunyang.zone" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.fanjunyang.zone-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://fjy.zone" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-fjy.zone-blue?style=flat&logo=google-chrome"></a>
+  <a href="https://blog.fjy.zone" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.fjy.zone-blue?style=flat&logo=google-chrome"></a>
   <a href="mailto:isjunyang.fan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-isjunyang.fan%40gmail.com-%23FCA121?style=flat&logo=gmail"></a>
 </p>
 
@@ -66,7 +66,7 @@ If you have any questions, please contact me through the above way.<img src="./i
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan&layout=compact)](https://github.com/junyangfan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyangfan)](https://github.com/junyangfan/# github-readme-stats) -->
 
-<!-- ![Fancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight) -->
+<!-- ![junyangfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyangfan&show_icons=true&theme=tokyonight) -->
 
 <table align="center">
   <tr>
