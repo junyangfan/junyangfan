@@ -90,9 +90,9 @@ If you have any questions, please contact me through the above way.<img src="./i
 
 <br />
 
-# My open source project
+<!-- # My open source project
 
-<!-- 开源项目 -->
+ 开源项目
 <p align="left">
   <a href="https://github.com/junyangfan/jy-ui">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=jy-ui&theme=radical" />
@@ -103,8 +103,7 @@ If you have any questions, please contact me through the above way.<img src="./i
   <a href="https://github.com/junyangfan/management-system">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junyangfan&repo=management-system&theme=radical" />
   </a>
-</p>
-
+</p> -->
 
 <br /><br />
 <!-- 访问量统计 -->
